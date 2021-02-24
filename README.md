@@ -13,6 +13,10 @@
 ## 対象機種
 - RICOH GRIII
 
+## 完成図 (おそらく余白も含めて正方形になる予想)
+![feature](https://user-images.githubusercontent.com/12169300/109020279-2e44db00-76fd-11eb-8530-4ba9c4d7f236.jpg)
+
+
 ---
 
 A development tool that adds a square margin to the input image and optionally adds shooting information
