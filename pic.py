@@ -43,8 +43,6 @@ def main():
     for tag_id, value in exif.items():
         tag = TAGS.get(tag_id, tag_id)
         exifDic[tag] = value
-        # if tag != "MakerNote" and tag != "PrintImageMatching":
-            # print(tag, "->", exifDic[tag])
 
     # sample print
     print("############# RICOH #############")
