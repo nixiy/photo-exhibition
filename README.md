@@ -1,5 +1,7 @@
 # photo-exhibition
 
+[![CodeQL](https://github.com/nixiy/photo-exhibition/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/nixiy/photo-exhibition/actions/workflows/codeql-analysis.yml)
+
 入力画像に正方形になるような余白を加えて、任意で撮影情報も付与する現像ツール
 
 ## 環境
